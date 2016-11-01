@@ -8,5 +8,7 @@ http://fontawesome.io/ - Icons
 
 EmailJS
 
+Firebase
 
+Google Calender
 
